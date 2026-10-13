@@ -46,9 +46,6 @@ These foundational skills will be useful for future projects involving object de
 
 - **Python** — Programming language for implementing image-processing workflows.
 - **Google Colab** — Environment for writing and executing code.
-- **NumPy** — Numerical operations and array manipulation, if used in the notebook.
-- **OpenCV** — Image loading and processing, if used in the notebook.
-- **Matplotlib** — Image visualization and plotting, if used in the notebook.
 - **GitHub** — Version control and project documentation.
 
 
