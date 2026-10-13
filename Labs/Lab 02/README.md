@@ -19,7 +19,6 @@ The general approach includes:
 - **Code experimentation:** Modify parameters and test different inputs to develop a better understanding of image-processing workflows.
 
 
-
 ## 3. Results
 
 The lab provides practical experience with image data and basic computer vision workflows. Results can be evaluated by checking whether the code executes successfully, whether the processed images match the expected transformations, and whether the visual differences can be explained.
