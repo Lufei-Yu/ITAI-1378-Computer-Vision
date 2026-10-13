@@ -24,15 +24,6 @@ The general approach includes:
 
 The lab provides practical experience with image data and basic computer vision workflows. Results can be evaluated by checking whether the code executes successfully, whether the processed images match the expected transformations, and whether the visual differences can be explained.
 
-| Evaluation Item | Result |
-|---|---|
-| Notebook execution | Record whether all required cells run successfully. |
-| Image processing | Describe the transformations or operations completed. |
-| Visual output | Include screenshots of original and processed images. |
-| Accuracy | Not applicable unless the lab includes a prediction or classification task. |
-| Performance | Record execution time if measured; otherwise, report it as not measured. |
-
-
 
 ## 4. Key Findings
 
