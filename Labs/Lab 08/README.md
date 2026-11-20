@@ -59,5 +59,9 @@ Specific outputs and examples can be found in the executed notebook.
 - **NumPy** – Numerical operations and data processing.
 - **Pillow (PIL)** – Image loading and processing.
 
+## 6. How to Run
+
+ Open the notebook using Jupyter Notebook, JupyterLab, or Google Colab.
+
 
 
