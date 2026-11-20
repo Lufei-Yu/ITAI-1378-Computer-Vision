@@ -1,4 +1,4 @@
-# Lab 04 – Chihuahua or Muffin Workshop Instructions
+# Lab 04 – Chihuahua or Muffin 
 
 ## 1. Problem Statement
 
